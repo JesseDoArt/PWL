@@ -1,6 +1,6 @@
 <?php 
-$nim = "A11.2020.80005";
-$nama = 'Jimmy';
+$nim = "A11.2020.80008";
+$nama = 'Jesse';
 echo "NIM : " . $nim . "<br>";
 echo "Nama : $nama";
 ?>
